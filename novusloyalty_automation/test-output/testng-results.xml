@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="162539" started-at="2018-06-07T19:38:11Z" finished-at="2018-06-07T19:40:54Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="162539" started-at="2018-06-07T19:38:11Z" finished-at="2018-06-07T19:40:54Z">
+      <class name="com.clavax.novusloyalty_automation.loginpage.TC003_VerifyValidLogin">
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.clavax.novusloyalty_automation.loginpage.TC003_VerifyValidLogin@239963d8]" name="setup" is-config="true" duration-ms="21640" started-at="2018-06-08T01:08:11Z" finished-at="2018-06-08T01:08:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="VerifyValidLogin()[pri:0, instance:com.clavax.novusloyalty_automation.loginpage.TC003_VerifyValidLogin@239963d8]" name="VerifyValidLogin" duration-ms="134527" started-at="2018-06-08T01:08:33Z" finished-at="2018-06-08T01:10:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- VerifyValidLogin -->
+        <test-method status="PASS" signature="close()[pri:0, instance:com.clavax.novusloyalty_automation.loginpage.TC003_VerifyValidLogin@239963d8]" name="close" is-config="true" duration-ms="6328" started-at="2018-06-08T01:10:47Z" finished-at="2018-06-08T01:10:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+      </class> <!-- com.clavax.novusloyalty_automation.loginpage.TC003_VerifyValidLogin -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

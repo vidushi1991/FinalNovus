@@ -1,0 +1,53 @@
+2018-06-07 23:00:45 INFO  TC001_VerifyHomePageLoadedSuccessfully:43 - ================Login with invalid Test Script Start here================= 
+2018-06-07 23:01:48 INFO  BaseClass:45 - You have successfully clicked on login page  :Proxy element for: DefaultElementLocator 'By.xpath: //a[@id='LoginId']'
+2018-06-07 23:01:50 INFO  BaseClass:48 - You have successfully entered email address on login page  :[[ChromeDriver: chrome on XP (723ab856a0903ec0388269ffd6e7b1aa)] -> id: emailId]
+2018-06-07 23:01:50 INFO  BaseClass:51 - You have successfully entered password on login page  :[[ChromeDriver: chrome on XP (723ab856a0903ec0388269ffd6e7b1aa)] -> id: passwordId]
+2018-06-07 23:01:53 INFO  BaseClass:54 - You have successfully clicked on submit page  :[[ChromeDriver: chrome on XP (723ab856a0903ec0388269ffd6e7b1aa)] -> id: signId]
+2018-06-07 23:01:53 INFO  BaseClass:61 - You have successfully captured the message for failed login  :[[ChromeDriver: chrome on XP (723ab856a0903ec0388269ffd6e7b1aa)] -> xpath: //p[@class='validation-summary-errors']]
+2018-06-07 23:01:53 INFO  TC001_VerifyHomePageLoadedSuccessfully:49 - =================Login with invalid Test Script ends here=================== 
+2018-06-07 23:07:26 INFO  TC001_VerifyHomePageLoadedSuccessfully:43 - ================Login with invalid Test Script Start here================= 
+2018-06-07 23:08:29 INFO  BaseClass:45 - You have successfully clicked on login page  :Proxy element for: DefaultElementLocator 'By.xpath: //a[@id='LoginId']'
+2018-06-07 23:08:29 INFO  BaseClass:48 - You have successfully entered email address on login page  :[[ChromeDriver: chrome on XP (2b95d4545c0cd7de461e45fbe51e8675)] -> id: emailId]
+2018-06-07 23:08:30 INFO  BaseClass:51 - You have successfully entered password on login page  :[[ChromeDriver: chrome on XP (2b95d4545c0cd7de461e45fbe51e8675)] -> id: passwordId]
+2018-06-07 23:08:32 INFO  BaseClass:54 - You have successfully clicked on submit page  :[[ChromeDriver: chrome on XP (2b95d4545c0cd7de461e45fbe51e8675)] -> id: signId]
+2018-06-07 23:08:32 INFO  BaseClass:61 - You have successfully captured the message for failed login  :The email address or password that you've entered is incorrect
+2018-06-07 23:08:32 INFO  TC001_VerifyHomePageLoadedSuccessfully:49 - =================Login with invalid Test Script ends here=================== 
+2018-06-08 00:39:03 INFO  TC002_VerifyRegistrationPage:38 - ===============Verify registrtion page script will start from here ===============
+2018-06-08 00:39:07 INFO  BaseClass:101 - You have successfully clicked on free trial page  :[[ChromeDriver: chrome on XP (534a23d2d2bd4fddeafde4d87439140b)] -> id: SignUpId]
+2018-06-08 00:39:07 INFO  BaseClass:104 - You have successfully clear first name field  :[[ChromeDriver: chrome on XP (534a23d2d2bd4fddeafde4d87439140b)] -> id: firstNameId]
+2018-06-08 00:39:08 INFO  BaseClass:107 - You have successfully entered  first name  :[[ChromeDriver: chrome on XP (534a23d2d2bd4fddeafde4d87439140b)] -> id: firstNameId]
+2018-06-08 00:39:08 INFO  BaseClass:110 - You have successfully clear last name field  :[[ChromeDriver: chrome on XP (534a23d2d2bd4fddeafde4d87439140b)] -> id: lastNameId]
+2018-06-08 00:39:08 INFO  BaseClass:113 - You have successfully entered  last name  :[[ChromeDriver: chrome on XP (534a23d2d2bd4fddeafde4d87439140b)] -> id: lastNameId]
+2018-06-08 00:39:08 INFO  BaseClass:116 - You have successfully clear email field  :[[ChromeDriver: chrome on XP (534a23d2d2bd4fddeafde4d87439140b)] -> id: emailId1]
+2018-06-08 00:39:09 INFO  BaseClass:119 - You have successfully entered  email  field  :[[ChromeDriver: chrome on XP (534a23d2d2bd4fddeafde4d87439140b)] -> id: emailId1]
+2018-06-08 00:39:09 INFO  BaseClass:122 - You have successfully clear password field  :[[ChromeDriver: chrome on XP (534a23d2d2bd4fddeafde4d87439140b)] -> id: passwordId]
+2018-06-08 00:39:09 INFO  BaseClass:125 - You have successfully entered  password  field  :[[ChromeDriver: chrome on XP (534a23d2d2bd4fddeafde4d87439140b)] -> id: passwordId]
+2018-06-08 00:39:10 INFO  BaseClass:128 - You have successfully clear confirsm password field  :[[ChromeDriver: chrome on XP (534a23d2d2bd4fddeafde4d87439140b)] -> id: tConfirmPassword]
+2018-06-08 00:39:10 INFO  BaseClass:131 - You have successfully entered  confirm password  field  :[[ChromeDriver: chrome on XP (534a23d2d2bd4fddeafde4d87439140b)] -> id: tConfirmPassword]
+2018-06-08 00:39:10 INFO  BaseClass:134 - You have successfully clicked on submit button  :[[ChromeDriver: chrome on XP (534a23d2d2bd4fddeafde4d87439140b)] -> id: submitId]
+2018-06-08 00:41:16 INFO  TC002_VerifyRegistrationPage:38 - ===============Verify registrtion page script will start from here ===============
+2018-06-08 00:41:18 INFO  BaseClass:101 - You have successfully clicked on free trial page  :[[ChromeDriver: chrome on XP (3ccae57182142b14769ac05231006fc1)] -> id: SignUpId]
+2018-06-08 00:41:19 INFO  BaseClass:104 - You have successfully clear first name field  :[[ChromeDriver: chrome on XP (3ccae57182142b14769ac05231006fc1)] -> id: firstNameId]
+2018-06-08 00:41:19 INFO  BaseClass:107 - You have successfully entered  first name  :[[ChromeDriver: chrome on XP (3ccae57182142b14769ac05231006fc1)] -> id: firstNameId]
+2018-06-08 00:41:19 INFO  BaseClass:110 - You have successfully clear last name field  :[[ChromeDriver: chrome on XP (3ccae57182142b14769ac05231006fc1)] -> id: lastNameId]
+2018-06-08 00:41:20 INFO  BaseClass:113 - You have successfully entered  last name  :[[ChromeDriver: chrome on XP (3ccae57182142b14769ac05231006fc1)] -> id: lastNameId]
+2018-06-08 00:41:20 INFO  BaseClass:116 - You have successfully clear email field  :[[ChromeDriver: chrome on XP (3ccae57182142b14769ac05231006fc1)] -> id: emailId1]
+2018-06-08 00:41:21 INFO  BaseClass:119 - You have successfully entered  email  field  :[[ChromeDriver: chrome on XP (3ccae57182142b14769ac05231006fc1)] -> id: emailId1]
+2018-06-08 00:41:21 INFO  BaseClass:122 - You have successfully clear password field  :[[ChromeDriver: chrome on XP (3ccae57182142b14769ac05231006fc1)] -> id: passwordId]
+2018-06-08 00:41:21 INFO  BaseClass:125 - You have successfully entered  password  field  :[[ChromeDriver: chrome on XP (3ccae57182142b14769ac05231006fc1)] -> id: passwordId]
+2018-06-08 00:41:21 INFO  BaseClass:128 - You have successfully clear confirsm password field  :[[ChromeDriver: chrome on XP (3ccae57182142b14769ac05231006fc1)] -> id: tConfirmPassword]
+2018-06-08 00:41:22 INFO  BaseClass:131 - You have successfully entered  confirm password  field  :[[ChromeDriver: chrome on XP (3ccae57182142b14769ac05231006fc1)] -> id: tConfirmPassword]
+2018-06-08 00:42:28 INFO  BaseClass:134 - You have successfully clicked on submit button  :Proxy element for: DefaultElementLocator 'By.id: submitId'
+2018-06-08 00:42:28 INFO  BaseClass:139 - You have successfully clicked on otp verify by button  :[[ChromeDriver: chrome on XP (3ccae57182142b14769ac05231006fc1)] -> id: IdVerify]
+2018-06-08 00:42:28 INFO  BaseClass:146 - You have successfully captured the message for failed login  :Please enter verification code
+2018-06-08 00:42:28 INFO  TC002_VerifyRegistrationPage:42 - ===============Verify registrtion page script will End here ===============
+2018-06-08 01:01:20 INFO  TC003_VerifyValidLogin:36 - ===============Verify valid login page script will start from here ===============
+2018-06-08 01:03:21 INFO  TC003_VerifyValidLogin:36 - ===============Verify valid login page script will start from here ===============
+2018-06-08 01:05:09 INFO  TC003_VerifyValidLogin:36 - ===============Verify valid login page script will start from here ===============
+2018-06-08 01:08:33 INFO  TC003_VerifyValidLogin:36 - ===============Verify valid login page script will start from here ===============
+2018-06-08 01:09:36 INFO  BaseClass:78 - You have successfully clicked on login page  :Proxy element for: DefaultElementLocator 'By.xpath: //a[@id='LoginId']'
+2018-06-08 01:09:37 INFO  BaseClass:81 - You have successfully entered email address on login page  :[[ChromeDriver: chrome on XP (7eead14b346e54975b09cbbaf720f023)] -> id: emailId]
+2018-06-08 01:09:37 INFO  BaseClass:84 - You have successfully entered password on login page  :[[ChromeDriver: chrome on XP (7eead14b346e54975b09cbbaf720f023)] -> id: passwordId]
+2018-06-08 01:10:47 INFO  BaseClass:87 - You have successfully clicked on submit page  :Proxy element for: DefaultElementLocator 'By.id: signId'
+2018-06-08 01:10:47 INFO  BaseClass:154 - You have successfully logged in to the Novus  :Welcome to Novus
+2018-06-08 01:10:47 INFO  TC003_VerifyValidLogin:42 - ===============Verify valid login page script will ends here ===============
