@@ -14,7 +14,7 @@ import org.openqa.selenium.chrome.ChromeOptions;
 import com.steadystate.css.dom.Property;
 
 /**
- * @author Vidushi Mishra
+ * @author Vidushi Mishra  G
  *
  */
 public class BaseClass {
