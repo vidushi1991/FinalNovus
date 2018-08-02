@@ -1,0 +1,16 @@
+<suite name ="LoginPage" parallel="tests" thread-count="2" preserve-order="true" >
+	<test name ="HomePage with chrome">
+		<parameter name ="myBrowser" value="chrome" />
+			<classes>
+				<class name ="com.clavax.novusloyality.seleniumgrid.BaseClass1"/>
+		</classes>
+	</test>
+	
+	<test name ="HomePage with firefox">
+		<parameter name = "myBrowser" value ="firefox"/>
+			<classes>
+				<class name ="com.clavax.novusloyality.seleniumgrid.BaseClass1"/>
+			</classes>
+		
+	</test> 
+</suite>
